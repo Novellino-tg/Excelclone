@@ -1,1 +1,1 @@
-Making utility that has functionalities similar to MS-Excel
+Making utility that has functionalities similar to MS-Excel.
